@@ -1,0 +1,15 @@
+*{
+    font-family: 'Passion One', cursive;
+}
+header{
+    background-color: rgb(33, 0, 182);
+    font-size: 20px;
+}
+
+.img{
+    box-shadow: 4px 5px 6px rgba(0, 0, 0, 0.664);
+}
+
+.color_btn{
+    background-color: rgba(0, 0, 0, 0.192);
+}
